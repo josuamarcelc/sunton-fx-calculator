@@ -1,3 +1,3 @@
 # sunton-fx-calculator
 
-example website: [a link](https://sunton.josuamarcelc.com)
+example website: [Sunton FX Calculator](https://sunton.josuamarcelc.com)
