@@ -13,6 +13,12 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://sunton.josuamarcelc.com">
     <meta property="og:image" content="https://sunton.josuamarcelc.com/img/sunton-fx.jpg">
+
+    <meta name="twitter:title" content="Sunton FX Calculator | Sunton Untuk Pemula">
+    <meta name="twitter:description" content=" Cara main sunton fx dengan sinyal setiap hari senin sampai jumat. Cara untuk menghitung cuan dengan sinyal, berapa lot yang harus dimasukan setiap hari. Hitungan komisi admin sunton fx. Hitungan cara ambil profit. Pasti cuan.">
+    <meta name="twitter:image" content=" https://sunton.josuamarcelc.com/img/sunton-fx.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+
     <meta name="viewport" content="width=device-width" />
     <meta name="amp-google-client-id-api" content="googleanalytics" />
     <title>Sunton FX Calculator | Sunton Untuk Pemula</title>
@@ -23,6 +29,13 @@
     <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
     <script async="" src="https://cdn.ampproject.org/v0.js"></script>
     <script async="" src="js/input.js"></script>
+    <meta name="google-site-verification" content="bSyrGKPPrzy6IIJxmriYD3ZKF_GPUUQbLZ2qo_F_XHQ" />
+    <style>
+      .content {
+        max-width: 450px;
+        margin: auto;
+      }
+    </style>
 
     <style amp-boilerplate="">body { -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both; -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both; -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both; animation: -amp-start 8s steps(1, end) 0s 1 normal both; } @-webkit-keyframes -amp-start { from { visibility: hidden; } to { visibility: visible; } } @-moz-keyframes -amp-start { from { visibility: hidden; } to { visibility: visible; } } @-ms-keyframes -amp-start { from { visibility: hidden; } to { visibility: visible; } } @-o-keyframes -amp-start { from { visibility: hidden; } to { visibility: visible; } } @keyframes -amp-start { from { visibility: hidden; } to { visibility: visible; } }</style>
     <noscript><style amp-boilerplate="">body { -webkit-animation: none; -moz-animation: none; -ms-animation: none; animation: none; }</style></noscript>
@@ -43,6 +56,7 @@
     </style>
   </head>
   <body>
+    <div class="content">
     <header class="ampstart-headerbar fixed flex justify-start items-center top-0 left-0 right-0 pl2 pr4">
       <div role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle"tabindex="0" class="ampstart-navbar-trigger pr2">
         ☰
@@ -83,26 +97,91 @@
     <div class="center">
       <figure class="ampstart-image-fullpage-hero m0 relative mb4">
         <div>
-            <br/>
-            <input id="input-submit" class="text-input-josuamarcelc" placeholder="Enter Asset Value" autocomplete="off" type="number" onKeyUp="inputAssetChange();">
-            <br/><br/>
-            <label id="label-result"><b>Market Execution: -</b><br>Admin Fee: -<br><b>Take Profit minimum: -</b></label>
-            <br/>
-            <hr>
-            <p><b>Example</b></p>
-            <amp-img src="img/sunton-dashboard.jpg" width="350" height="235" alt="Sunton Dashboard in MetaTrader 5" layout="responsive" class=""></amp-img>
-            <p>Lot: USD 145.57 / 800 = <b>0.18</b></p>
-            <p>Admin Fee: 0.18 x 30 = <b>5.4 USD</b></p>
-            <p>145.57 x 5% = <b>7.2785 USD</b></p>
-            <p>Take Profit minimum in <b>12 USD</b></p>
+          <br/>
+          <input id="input-submit" class="text-input-josuamarcelc" placeholder="Enter Asset Value" autocomplete="off" type="number" onKeyUp="inputAssetChange();">
+          <br/><br/>
+          <label id="label-result"><b>Market Execution: -</b><br>Admin Fee: -<br><b>Take Profit minimum: -</b></label>
+          <br/>
+          <hr>
+          <p><b><i>EXAMPLE</i></b></p>
+          <amp-img src="img/sunton-dashboard.jpg" width="350" height="235" alt="Sunton Dashboard in MetaTrader 5" layout="responsive" class=""></amp-img>
+          <p>Lot: USD 145.57 / 800 = <b>0.18</b></p>
+          <p>Admin Fee: 0.18 x 30 = <b>5.4 USD</b></p>
+          <p>145.57 x 5% = <b>7.2785 USD</b></p>
+          <p>Take Profit minimum in <b>12 USD</b></p>
          </div>
         <amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-7143337953873107" data-ad-slot="9343558541" data-auto-format="rspv" data-full-width="">
           <div overflow=""></div>
         </amp-ad>
+
+        <hr>
+        <marquee><p style="color:#FF3333;font-weight:bold;"><a href="https://user.suntonfx.com/signup/E1428967-A01" class="text-decoration-none">Register Sunton FX</a></p></marquee>
+          <hr>
+    <script>
+      window.Promise ||
+        document.write(
+          '<script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.min.js"><\/script>'
+        )
+      window.Promise ||
+        document.write(
+          '<script src="https://cdn.jsdelivr.net/npm/eligrey-classlist-js-polyfill@1.2.20171210/classList.min.js"><\/script>'
+        )
+      window.Promise ||
+        document.write(
+          '<script src="https://cdn.jsdelivr.net/npm/findindex_polyfill_mdn"><\/script>'
+        )
+    </script>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    
+     <div id="chart"></div>
+
+      <script>
+          var options = {
+            series: [{
+              name: "Asset + Profit in USD",
+              data: [168, 210, 262, 327, 408, 510, 637, 796, 995]
+          }],
+            chart: {
+              toolbar: {
+                tools: {
+                    download: false
+                }
+            },
+            width: '95%',
+            height: 350,
+            type: 'line',
+            zoom: {
+              enabled: false
+            }
+          },
+          dataLabels: {
+            enabled: false
+          },
+          stroke: {
+            curve: 'straight'
+          },
+          title: {
+            text: 'Profit Per Week with Investment 130 USD', align: 'center'
+          },
+          grid: {
+            row: {
+              colors: ['#f3f3f3', 'transparent'], // takes an array which will be repeated on columns
+              opacity: 0.5
+            }
+          },
+          xaxis: { categories: ['Week 1', 'Week 2', 'Week 3', 'Week 4', 'Week 5', 'Week 6', 'Week 7', 'Week 8', 'Week 9']}
+          };
+          var chart = new ApexCharts(document.querySelector("#chart"), options);
+          chart.render();
+      </script>
+          <hr>
       </figure>
     </div>
     <footer class="ampstart-footer flex flex-column items-center px3">
       <small> © <a href="https://josuamarcelc.com">josuamarcelc.com</a>, 2013 - <?= date('Y'); ?></small>
     </footer>
+    </div>
   </body>
 </html>
