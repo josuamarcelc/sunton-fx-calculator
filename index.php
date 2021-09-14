@@ -122,15 +122,16 @@
           <br/>
           <input id="input-submit" class="text-input-josuamarcelc" placeholder="Enter Asset Value" autocomplete="off" type="number" onKeyUp="inputAssetChange();"> <button onclick="resetInputSubmit();" class="bubbly-button">Reset</button>
           <br/><br/>
-          <label id="label-result"><b>Market Execution: -</b><br>Admin Fee: -<br><b>Take Profit minimum: -</b></label>
+          <label id="label-result"><b>Market Execution: -</b><br>Admin Fee: -<br><b>Close with Profit: -</b></label>
+          <br/>
           <br/>
           <hr>
           <p><b>Market EXAMPLE: Ukoil.ecn</b></p>
           <amp-img src="img/sunton-dashboard.jpg" width="350" height="235" alt="Sunton Dashboard in MetaTrader 5" layout="responsive" class=""></amp-img>
           <p>Lot: USD 145.57 / 800 = <b>0.18</b></p>
-          <p>Admin Fee: 0.18 x 30 = <b>5.4 USD</b></p>
+          <p>Admin Fee: 0.18 x 30 = <b>5.40 USD</b></p>
           <p>145.57 x 5% = <b>7.2785 USD</b></p>
-          <p>Take Profit minimum in <b>12 USD</b></p>
+          <p>Take Profit minimum in <b>12.68 USD</b></p>
          </div>
         <amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-7143337953873107" data-ad-slot="9343558541" data-auto-format="rspv" data-full-width="">
           <div overflow=""></div>
@@ -211,19 +212,23 @@
         var asset = document.getElementById("input-submit").value;
         var modulus = getModValue();
         order = asset / modulus;
-        order = Math.floor(order * 100) / 100;
-        // order = (order).toFixed(2);
+        if (document.getElementsByName("select-stock")[0].checked == true){
+          order = (order).toFixed(2);
+        }else if (document.getElementsByName("select-stock")[1].checked == true){
+          order = Math.floor(order * 100) / 100;
+        }
         var adminfee = order * 30;
         var profit = asset * 5/100;
-        var profit_at = (profit + adminfee);
+        var close_with_profit = (profit + adminfee);
         document.getElementById("label-result").innerHTML = 
-        "<b>Market Execution: " + order + "</b><br>Admin Fee: " + adminfee.toFixed(2) + "<br><b>Take Profit minimum: " + profit_at.toFixed(2) + "</b>";
+        "<b>Market Execution: " + order + "</b><br>Admin Fee: " + adminfee.toFixed(2) + "<br><b>Close With Profit: " + close_with_profit.toFixed(2) + "</b>";
     }
 
     function resetInputSubmit(){
       document.getElementById("input-submit").value = '';
+      document.getElementsByName("select-stock")[0].checked = true;
       document.getElementById("label-result").innerHTML = 
-        "<b>Market Execution: -</b><br>Admin Fee: -<br><b>Take Profit minimum: -</b>";
+        "<b>Market Execution: -</b><br>Admin Fee: -<br><b>Close with Profit : -</b>";
     }
     
     function getModValue(){
