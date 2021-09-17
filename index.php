@@ -16,21 +16,21 @@
     <meta name="author" content="josua marcel c">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Cara main sunton fx dengan sinyal setiap hari senin sampai jumat. Cara untuk menghitung cuan dengan sinyal, berapa lot yang harus dimasukan setiap hari. Hitungan komisi admin sunton fx. Hitungan cara ambil profit. Pasti cuan."> <!-- ˜150 chars -->
-    <meta property="og:title" content="Sunton FX Calculator | Sunton Untuk Pemula">
+    <meta property="og:title" content="Sunton FX Calculator | Sunton for Newbie">
     <meta property="og:description" content="Cara main sunton fx dengan sinyal setiap hari senin sampai jumat. Cara untuk menghitung cuan dengan sinyal, berapa lot yang harus dimasukan setiap hari. Hitungan komisi admin sunton fx. Hitungan cara ambil profit. Pasti cuan."> <!-- ˜300 chars -->
-    <meta property="og:site_name" content="Sunton FX Calculator | Sunton Untuk Pemula">
+    <meta property="og:site_name" content="Sunton FX Calculator | Sunton for Newbie">
     <meta property="og:locale" content="id_ID"> <!-- language_location -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://sunton.josuamarcelc.com">
     <meta property="og:image" content="https://sunton.josuamarcelc.com/img/sunton-fx.jpg">
 
-    <meta name="twitter:title" content="Sunton FX Calculator | Sunton Untuk Pemula">
+    <meta name="twitter:title" content="Sunton FX Calculator | Sunton for Newbie">
     <meta name="twitter:description" content=" Cara main sunton fx dengan sinyal setiap hari senin sampai jumat. Cara untuk menghitung cuan dengan sinyal, berapa lot yang harus dimasukan setiap hari. Hitungan komisi admin sunton fx. Hitungan cara ambil profit. Pasti cuan.">
     <meta name="twitter:image" content=" https://sunton.josuamarcelc.com/img/sunton-fx.jpg">
     <meta name="twitter:card" content="summary_large_image">
 
     <meta name="amp-google-client-id-api" content="googleanalytics" />
-    <title>Sunton FX Calculator | Sunton Untuk Pemula</title>
+    <title>Sunton FX Calculator | Sunton for Newbie</title>
     <link rel="canonical" href="https://sunton.josuamarcelc.com" />
           
     <link rel="icon" href="img/favicon.ico" type="image/ico" sizes="16x16">
@@ -213,7 +213,7 @@
         var modulus = getModValue();
         order = asset / modulus;
         if (document.getElementsByName("select-stock")[0].checked == true){
-          order = (order).toFixed(2);
+          order = Math.floor(order * 100) / 100;
         }else if (document.getElementsByName("select-stock")[1].checked == true){
           order = Math.floor(order * 100) / 100;
         }
@@ -240,6 +240,9 @@
         return 800;
       }
     }
+    window.onload = function() {
+    var input = document.getElementById("input-submit").focus();
+  }
   </script>
   
 </html>
