@@ -12,34 +12,32 @@
     </script>
 
     <meta charset="utf-8" />
-    <meta name="keywords" content="hitung komisi admin sunton, sunton fx, sunton calculator, ukoin leverage, ukoin calculator, sunton fx calculator">
+    <meta name="keywords" content="cara mulai sunton, tutorial sunton, step mulai sunton, sunton fx, sunton calculator, ukoin leverage, ukoin calculator">
     <meta name="author" content="josua marcel c">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Cara main sunton fx dengan sinyal setiap hari senin sampai jumat. Cara untuk menghitung cuan dengan sinyal, berapa lot yang harus dimasukan setiap hari. Hitungan komisi admin sunton fx. Hitungan cara ambil profit. Pasti cuan."> <!-- ˜150 chars -->
-    <meta property="og:title" content="Sunton FX Calculator | Sunton for Newbie">
-    <meta property="og:description" content="Cara main sunton fx dengan sinyal setiap hari senin sampai jumat. Cara untuk menghitung cuan dengan sinyal, berapa lot yang harus dimasukan setiap hari. Hitungan komisi admin sunton fx. Hitungan cara ambil profit. Pasti cuan."> <!-- ˜300 chars -->
-    <meta property="og:site_name" content="Sunton FX Calculator | Sunton for Newbie">
+    <meta name="description" content="Cara mulai bermain sunton fx dengan sinyal setiap hari senin sampai jumat. Cara untuk menghitung cuan dengan sinyal, berapa lot yang harus dimasukan setiap hari. Hitungan komisi admin sunton fx. Hitungan cara ambil profit. Pasti cuan."> <!-- ˜150 chars -->
+    <meta property="og:title" content="Cara Mulai Sunton FX | Sunton for Newbie">
+    <meta property="og:description" content="Cara mulai bermain sunton fx dengan sinyal setiap hari senin sampai jumat. Cara untuk menghitung cuan dengan sinyal, berapa lot yang harus dimasukan setiap hari. Hitungan komisi admin sunton fx. Hitungan cara ambil profit. Pasti cuan."> <!-- ˜300 chars -->
+    <meta property="og:site_name" content="Cara Mulai Sunton FX | Sunton for Newbie">
     <meta property="og:locale" content="id_ID"> <!-- language_location -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://sunton.josuamarcelc.com">
+    <meta property="og:url" content="https://sunton.josuamarcelc.com/cara-mulai-sunton">
     <meta property="og:image" content="https://sunton.josuamarcelc.com/img/sunton-fx.jpg">
 
-    <meta name="twitter:title" content="Sunton FX Calculator | Sunton for Newbie">
-    <meta name="twitter:description" content=" Cara main sunton fx dengan sinyal setiap hari senin sampai jumat. Cara untuk menghitung cuan dengan sinyal, berapa lot yang harus dimasukan setiap hari. Hitungan komisi admin sunton fx. Hitungan cara ambil profit. Pasti cuan.">
+    <meta name="twitter:title" content="Cara Mulai Sunton FX | Sunton for Newbie">
+    <meta name="twitter:description" content=" Cara mulai bermain sunton fx dengan sinyal setiap hari senin sampai jumat. Cara untuk menghitung cuan dengan sinyal, berapa lot yang harus dimasukan setiap hari. Hitungan komisi admin sunton fx. Hitungan cara ambil profit. Pasti cuan.">
     <meta name="twitter:image" content=" https://sunton.josuamarcelc.com/img/sunton-fx.jpg">
     <meta name="twitter:card" content="summary_large_image">
 
     <meta name="amp-google-client-id-api" content="googleanalytics" />
-    <title>Sunton FX Calculator | Sunton for Newbie</title>
-    <link rel="canonical" href="https://sunton.josuamarcelc.com" />
+    <title>Cara Mulai Sunton FX | Sunton for Newbie</title>
+    <link rel="canonical" href="https://sunton.josuamarcelc.com/cara-mulai-sunton" />
           
-    <link rel="icon" href="img/favicon.ico" type="image/ico" sizes="16x16">
+    <link rel="icon" href="https://sunton.josuamarcelc.com/img/favicon.ico" type="image/ico" sizes="16x16">
     <!-- <link rel="stylesheet" href="css/styles.css"> -->
     <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
     <script async="" src="https://cdn.ampproject.org/v0.js"></script>
     <!-- <script async="" src="js/input.js"></script> -->
-    <meta name="google-site-verification" content="bSyrGKPPrzy6IIJxmriYD3ZKF_GPUUQbLZ2qo_F_XHQ" />
-    <meta name="yandex-verification" content="e1055c7652085746" />
     <style>
       .content {
         max-width: 450px;
@@ -71,7 +69,7 @@
       <div role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle"tabindex="0" class="ampstart-navbar-trigger pr2">
         ☰
       </div>
-      <div class="ampstart-headerbar-title mx-auto h3">Sunton FX Calculator</div>
+      <div class="ampstart-headerbar-title mx-auto h3">5 Langkah Mulai Sunton FX</div>
     </header>
 
     <amp-sidebar id="header-sidebar" class="ampstart-sidebar px3" layout="nodisplay">
@@ -85,10 +83,10 @@
           <li class="ampstart-nav-item ampstart-nav-dropdown relative">
             <amp-accordion layout="container" disable-session-states="" class="ampstart-dropdown">
               <section>
-                <header>Sunton Tutorial</header>
+                <header>Sunton</header>
                 <ul class="ampstart-dropdown-items list-reset m0 p0">
                   <li class="ampstart-dropdown-item">
-                  <a href="https://sunton.josuamarcelc.com/cara-mulai-sunton" class="text-decoration-none">Cara Mulai Sunton</a>
+                    <a href="https://sunton.josuamarcelc.com/" class="text-decoration-none">Sunton FX Calculator</a>
                   </li>
                 </ul>
               </section>
@@ -118,102 +116,56 @@
 
     <div class="center">
       <figure class="ampstart-image-fullpage-hero m0 relative mb4">
-        <div>
-          <div class="wrapper">
-            <input onchange="inputAssetChange();" type="radio" name="select-stock" id="option-1" value="800" checked>
-            <input onchange="inputAssetChange();" type="radio" name="select-stock" id="option-2" value="1030">
-            <label for="option-1" class="option option-1">
-              <div class="dot"></div>
-                <span>Ukoil.ecn</span>
-                </label>
-            <label for="option-2" class="option option-2">
-              <div class="dot"></div>
-                <span>XAGUSD.ecn</span>
-            </label>
-          </div>
-          <br/>
-          <br/>
-          <input id="input-submit" class="text-input-josuamarcelc" placeholder="Enter Asset Value" autocomplete="off" type="number" onKeyUp="inputAssetChange();"> <button onclick="resetInputSubmit();" class="bubbly-button">Reset</button>
-          <br/><br/>
-          <label id="label-result"><b>Market Execution: -</b><br>Admin Fee: -<br><b>Close with Profit: -</b></label>
-          <br/>
-          <br/>
+        <div style="background-color:#fafafa;">
           <hr>
-            <p style="color:#FF3333;font-weight:bold;"><a href="https://user.suntonfx.com/signup/E1428967-A01" class="text-decoration-none">Register SuntonFX NOW</a></p>
+            <p style="color:#FF3333;font-weight:bold;"><a href="https://user.suntonfx.com/signup/E1428967-A01" class="text-decoration-none">1. Register SuntonFX</a></p>
           <hr>
-          <p><b>Market EXAMPLE: Ukoil.ecn</b></p>
-          <amp-img src="img/sunton-dashboard.jpg" width="350" height="235" alt="Sunton Dashboard in MetaTrader 5" layout="responsive" class=""></amp-img>
-          <p>Lot: USD 145.57 / 800 = <b>0.18</b></p>
-          <p>Admin Fee: 0.18 x 30 = <b>5.40 USD</b></p>
-          <p>145.57 x 5% = <b>7.2785 USD</b></p>
-          <p>Take Profit minimum in <b>12.68 USD</b></p>
+            <p style="color:#EE3333;font-weight:bold;"><a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5" class="text-decoration-none">2. Download MetaTrader 5 (MT5)</a></p>
+            <amp-img src="../img/meta-trader-5.jpg" width="375" height="95" alt="Sunton Dashboard in MetaTrader 5" layout="responsive"></amp-img>
+            <table>
+              <tr>
+                <td style="width:40%"><a target="_blank" href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5"><img src="https://sunton.josuamarcelc.com/img/google-play-badge.png" height="70" alt="Get MetaTrader 5 in Google Play" layout="responsive"></img></a></td>
+                <td style="width:40%"><a target="_blank" href="https://apps.apple.com/us/app/metatrader-5/id413251709"><img style="margin-right:10px;" src="https://sunton.josuamarcelc.com/img/apple-store-badge.png" height="48" alt="Get MetaTrader 5 in Apple Store" layout="responsive"></img></a></td>
+              </tr>
+            </table>
+          <hr>
+            <p style="color:#DD3333;font-weight:bold;"><a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5" class="text-decoration-none">3. Cek Email, Login MT 5 Pakai Akun Perdagangan dan Password Perdagangan</a></p>
+          <hr>
+            <p style="color:#DD3333;font-weight:bold;"><a href="https://chat.whatsapp.com/IBiatLEHkup5cGKfOpWYAG" class="text-decoration-none">4. Masuk Whatsapp Group untuk Daftar Ulang</a></p>
+          <hr>
+            <p style="color:#DD3333;font-weight:bold;">5. Setelah Top-up pertama akan di invite ke group Sinyal</p>
+          <hr>
          </div>
-        <amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-7143337953873107" data-ad-slot="9343558541" data-auto-format="rspv" data-full-width="">
-          <div overflow=""></div>
-        </amp-ad>
-        <hr>
-          <p style="color:#FF0000;font-weight:bold;"><a href="https://user.suntonfx.com/signup/E1428967-A01" class="text-decoration-none">Register SuntonFX NOW</a></p>
-        <hr>
-    <script>
-      window.Promise ||
-        document.write(
-          '<script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.min.js"><\/script>'
-        )
-      window.Promise ||
-        document.write(
-          '<script src="https://cdn.jsdelivr.net/npm/eligrey-classlist-js-polyfill@1.2.20171210/classList.min.js"><\/script>'
-        )
-      window.Promise ||
-        document.write(
-          '<script src="https://cdn.jsdelivr.net/npm/findindex_polyfill_mdn"><\/script>'
-        )
-    </script>
-
-    
-    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
-    
-     <div id="chart"></div>
-
-      <script>
-          var options = {
-            series: [{
-              name: "Asset + Profit in USD",
-              data: [168, 210, 262, 327, 408, 510, 637, 796, 995]
-          }],
-            chart: {
-              toolbar: {
-                tools: {
-                    download: false
-                }
-            },
-            width: '95%',
-            height: 350,
-            type: 'line',
-            zoom: {
-              enabled: false
-            }
-          },
-          dataLabels: {
-            enabled: false
-          },
-          stroke: {
-            curve: 'straight'
-          },
-          title: {
-            text: 'Profit Per Week with Investment 130 USD', align: 'center'
-          },
-          grid: {
-            row: {
-              colors: ['#f3f3f3', 'transparent'], // takes an array which will be repeated on columns
-              opacity: 0.5
-            }
-          },
-          xaxis: { categories: ['Week 1', 'Week 2', 'Week 3', 'Week 4', 'Week 5', 'Week 6', 'Week 7', 'Week 8', 'Week 9']}
-          };
-          var chart = new ApexCharts(document.querySelector("#chart"), options);
-          chart.render();
-      </script>
+        <div>
+          <p><b>Sinyal Buy / Sell</b></p>
+          <ul style="text-align:left;">
+            <li>Cek Stock di MetaTrader5, tambahkan stock UKOIL dan XAGUS</li>
+            <li>Delete stock lain, Sunton hanya trading UKOIL dan XAGUS</li>
+            <li><a style="color:#ff1111;" target="_blank" href="https://sunton.josuamarcelc.com/img/contoh-sinyal-sunton.jpg">Contoh Sinyal</a></li>
+            <li>Follow Telegram <a style="color:#ff1111;" target="_blank" href="https://t.me/signalsunton">Signal Sunton FX</a></li>
+          </ul>
           <hr>
+          <p><b>Cara Top Up:</b></p>
+          <ul style="text-align:left;">
+            <li>Chatting Whatsapp</li>
+            <li>Info Nomor Akun MetaTrader5 dan Jumlah Deposit <br>(contoh: ID 82173 top up Rp. 1,000,000)</li>
+            <li><a style="color:#ff1111;" target="_blank" href="https://sunton.josuamarcelc.com/img/contoh-top-up.jpg">Contoh Chat</a></li>
+            
+            <li>Nanti diarahkan dananya akan ditransfer kemana</li>
+            <li>Minimal Top Up 50 USD</li>
+          </ul>
+          <hr>
+          <amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-7143337953873107" data-ad-slot="9343558541" data-auto-format="rspv" data-full-width="">
+            <div overflow=""></div>
+          </amp-ad>
+          <hr>
+          <p><b>Cara Penarikan Dana:</b></p>
+          <ul style="text-align:left;">
+            <li>Masuk ke web sunton (<a href="https://user.suntonfx.com">https://user.suntonfx.com</a>)</li>
+            <li>Pilih penarikan / withdrawal</li>
+            <li>Pilih wire transfer/ transfer kawat</li>
+          </ul>
+         </div>
       </figure>
     </div>
     <footer class="ampstart-footer flex flex-column items-center px3">
@@ -221,42 +173,5 @@
     </footer>
     </div>
   </body>
-  <script>
-    function inputAssetChange() {
-        var asset = document.getElementById("input-submit").value;
-        var modulus = getModValue();
-        order = asset / modulus;
-        if (document.getElementsByName("select-stock")[0].checked == true){
-          order = Math.floor(order * 100) / 100;
-        }else if (document.getElementsByName("select-stock")[1].checked == true){
-          order = Math.floor(order * 100) / 100;
-        }
-        var adminfee = order * 30;
-        var profit = asset * 5/100;
-        var close_with_profit = (profit + adminfee);
-        document.getElementById("label-result").innerHTML = 
-        "<b>Market Execution: " + order + "</b><br>Admin Fee: " + adminfee.toFixed(2) + "<br><b>Close With Profit: " + close_with_profit.toFixed(2) + "</b>";
-    }
-
-    function resetInputSubmit(){
-      document.getElementById("input-submit").value = '';
-      document.getElementsByName("select-stock")[0].checked = true;
-      document.getElementById("label-result").innerHTML = 
-        "<b>Market Execution: -</b><br>Admin Fee: -<br><b>Close with Profit : -</b>";
-    }
-    
-    function getModValue(){
-      if (document.getElementsByName("select-stock")[0].checked == true){
-        return document.getElementsByName("select-stock")[0].value;
-      }else if (document.getElementsByName("select-stock")[1].checked == true){
-        return document.getElementsByName("select-stock")[1].value;
-      }else{
-        return 800;
-      }
-    }
-    window.onload = function() {
-    var input = document.getElementById("input-submit").focus();
-  }
-  </script>
   
 </html>
