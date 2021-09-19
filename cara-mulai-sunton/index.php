@@ -116,12 +116,12 @@
 
     <div class="center">
       <figure class="ampstart-image-fullpage-hero m0 relative mb4">
-        <div style="background-color:#fafafa;">
+        <div style="background-color:#f8f8f8;">
           <hr>
             <p style="color:#FF3333;font-weight:bold;"><a href="https://user.suntonfx.com/signup/E1428967-A01" class="text-decoration-none">1. Register SuntonFX</a></p>
           <hr>
             <p style="color:#EE3333;font-weight:bold;"><a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5" class="text-decoration-none">2. Download MetaTrader 5 (MT5)</a></p>
-            <amp-img src="../img/meta-trader-5.jpg" width="375" height="95" alt="Sunton Dashboard in MetaTrader 5" layout="responsive"></amp-img>
+            <amp-img src="../img/meta-trader-5.jpg" width="375" height="125" alt="Sunton Dashboard in MetaTrader 5" layout="responsive"></amp-img>
             <table>
               <tr>
                 <td style="width:40%"><a target="_blank" href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5"><img src="https://sunton.josuamarcelc.com/img/google-play-badge.png" height="70" alt="Get MetaTrader 5 in Google Play" layout="responsive"></img></a></td>
@@ -141,8 +141,10 @@
           <ul style="text-align:left;">
             <li>Cek Stock di MetaTrader5, tambahkan stock UKOIL dan XAGUS</li>
             <li>Delete stock lain, Sunton hanya trading UKOIL dan XAGUS</li>
-            <li><a style="color:#ff1111;" target="_blank" href="https://sunton.josuamarcelc.com/img/contoh-sinyal-sunton.jpg">Contoh Sinyal</a></li>
+            <li>Sinyal trading hanya dari senin-jumat <a style="color:#ff1111;" target="_blank" href="https://sunton.josuamarcelc.com/img/contoh-sinyal-sunton.jpg">Contoh Sinyal</a></li>
+            <li>Sinyal selama ini selalu profit, contoh: <a style="color:#ff1111;" target="_blank" href="https://sunton.josuamarcelc.com/img/success-trade-with-daily-signal.jpg">Sinyal Sukses</a></li>
             <li>Follow Telegram <a style="color:#ff1111;" target="_blank" href="https://t.me/signalsunton">Signal Sunton FX</a></li>
+            
           </ul>
           <hr>
           <p><b>Cara Top Up:</b></p>
