@@ -125,6 +125,10 @@
           <p>Website ini hanya untuk info, tidak menjamin kemenangan 100%</p>
          </div>
           <hr>
+          <amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-7143337953873107" data-ad-slot="9343558541" data-auto-format="rspv" data-full-width="">
+            <div overflow=""></div>
+          </amp-ad>
+          <hr>
           <p><b>Cara Mendapatkan Komisi Referral:</b></p>
           <img src="https://sunton.josuamarcelc.com/img/komisi-referral-sunton.jpg" width="100%" alt="Cara menghitung referral Sunton" layout="responsive"></img>
           <ul style="text-align:left;">
@@ -134,10 +138,6 @@
             <li>Komisi dapat diambil sebanyak referral 3 level ke bawah</li>
             <li>Komisi dapat di cairkan di <a style="color:#ff1111;" target="_blank" href="https://user.suntonfx.com">https://user.suntonfx.com</a></li>
           </ul>
-          <hr>
-          <amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-7143337953873107" data-ad-slot="9343558541" data-auto-format="rspv" data-full-width="">
-            <div overflow=""></div>
-          </amp-ad>
           <hr>
           <p><b>Cara Mendapatkan Link Referral Sunton:</b></p>
           <a target="_blank" href="https://sunton.josuamarcelc.com/img/cara-ambil-link-referral.png"><img src="https://sunton.josuamarcelc.com/img/cara-ambil-link-referral.png" width="100%" alt="Cara ambil link referral Sunton" layout="responsive"></img></a>

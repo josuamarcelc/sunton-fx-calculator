@@ -88,6 +88,9 @@
                   <li class="ampstart-dropdown-item">
                     <a href="https://sunton.josuamarcelc.com/" class="text-decoration-none">Sunton FX Calculator</a>
                   </li>
+                  <li class="ampstart-dropdown-item">
+                    <a href="https://sunton.josuamarcelc.com/cara-dapat-komisi-sunton/" class="text-decoration-none">Cara Dapat Komisi Sunton FX</a>
+                  </li>
                 </ul>
               </section>
             </amp-accordion>
@@ -118,9 +121,9 @@
       <figure class="ampstart-image-fullpage-hero m0 relative mb4">
         <div style="background-color:#f8f8f8;">
           <hr>
-            <p style="color:#FF3333;font-weight:bold;"><a href="https://user.suntonfx.com/signup/E1428967-A01" class="text-decoration-none">1. Register SuntonFX</a></p>
+            <p>1. Register SuntonFX <a style="color:#FF3333;font-weight:bold;" href="https://user.suntonfx.com/signup/E1428967-A01" class="text-decoration-none">(Klik Disini)</a></p>
           <hr>
-            <p style="color:#EE3333;font-weight:bold;"><a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5" class="text-decoration-none">2. Download MetaTrader 5 (MT5)</a></p>
+            <p><a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5" class="text-decoration-none">2. Download MetaTrader 5 (MT5)</a></p>
             <amp-img src="../img/meta-trader-5.jpg" width="375" height="125" alt="Sunton Dashboard in MetaTrader 5" layout="responsive"></amp-img>
             <table>
               <tr>
@@ -129,13 +132,17 @@
               </tr>
             </table>
           <hr>
-            <p style="color:#DD3333;font-weight:bold;"><a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5" class="text-decoration-none">3. Cek Email, Login MT 5 Pakai Akun Perdagangan dan Password Perdagangan</a></p>
+            <p>3. Cek Email, Login MT 5 Pakai Akun Perdagangan dan Password Perdagangan</p>
           <hr>
-            <p style="color:#DD3333;font-weight:bold;"><a href="https://chat.whatsapp.com/IBiatLEHkup5cGKfOpWYAG" class="text-decoration-none">4. Masuk Whatsapp Group untuk Daftar Ulang</a></p>
+            <p>4. Masuk Whatsapp Group untuk Daftar Ulang <a style="color:#FF3333;font-weight:bold;" href="https://chat.whatsapp.com/IBiatLEHkup5cGKfOpWYAG" class="text-decoration-none">(Klik Disini)</a></p>
           <hr>
-            <p style="color:#DD3333;font-weight:bold;">5. Setelah Top-up pertama akan di invite ke group Sinyal</p>
+            <p>5. Setelah Top-up pertama akan di invite ke group Sinyal</p>
           <hr>
          </div>
+         <amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-7143337953873107" data-ad-slot="9343558541" data-auto-format="rspv" data-full-width="">
+              <div overflow=""></div>
+            </amp-ad>
+            <hr>
         <div>
           <p><b>Sinyal Buy / Sell</b></p>
           <ul style="text-align:left;">
@@ -163,15 +170,42 @@
           <hr>
           <p><b>Cara Penarikan Dana:</b></p>
           <ul style="text-align:left;">
-            <li>Masuk ke web sunton (<a href="https://user.suntonfx.com">https://user.suntonfx.com</a>)</li>
+            <li>Masuk ke web sunton (<a style="color:#ff1111;" target="_blank" href="https://user.suntonfx.com">https://user.suntonfx.com</a>)</li>
             <li>Pilih penarikan / withdrawal</li>
             <li>Pilih wire transfer/ transfer kawat</li>
           </ul>
+          <hr>
          </div>
+         <div style="background-color:#ffafaf">
+          <p><b>Disclaimer!</b></p>
+          <p>Website ini hanya untuk info, tidak menjamin kemenangan 100%</p>
+         </div>
+          <hr>
+          <p><b>Cara Mendapatkan Komisi Referral:</b></p>
+          <img src="https://sunton.josuamarcelc.com/img/komisi-referral-sunton.jpg" width="100%" alt="Cara menghitung referral Sunton" layout="responsive"></img>
+          <ul style="text-align:left;">
+            <li>Jika A ajak BCD, A akan mendapatkan 16% dari admin fee BCD setiap transaksi</li>
+            <li>Jika B ajak EF, A akan mendapatkan 8% dari admin fee EF setiap transaksi</li>
+            <li>Jika G ajak H, A akan mendapatkan 4% dari admin fee H setiap transaksi</li>
+            <li>Komisi dapat diambil sebanyak referral 3 level ke bawah</li>
+            <li>Komisi dapat di cairkan di <a style="color:#ff1111;" target="_blank" href="https://user.suntonfx.com">https://user.suntonfx.com</a></li>
+          </ul>
+          <hr>
+          <p><b>Cara Mendapatkan Link Referral Sunton:</b></p>
+          <a target="_blank" href="https://sunton.josuamarcelc.com/img/cara-ambil-link-referral.png"><img src="https://sunton.josuamarcelc.com/img/cara-ambil-link-referral.png" width="100%" alt="Cara ambil link referral Sunton" layout="responsive"></img></a>
+          <ul style="text-align:left;">
+            <li>Login ke <a style="color:#ff1111;" target="_blank" href="https://user.suntonfx.com">https://user.suntonfx.com</a></li>
+          </ul>
+          <ol style="text-align:left;">
+            <li>Pilih Menu Promosi</li>
+            <li>Lihat trade register promotion link</li>
+            <li>Klik Salin tautan promosi</li>
+          </ol>
       </figure>
     </div>
+          <hr>
     <footer class="ampstart-footer flex flex-column items-center px3">
-      <small> © <a href="https://josuamarcelc.com">josuamarcelc.com</a>, 2013 - <?= date('Y'); ?></small>
+      <small> © <a href="https://josuamarcelc.com">jmc</a>, 2013 - <?= date('Y'); ?></small>
     </footer>
     </div>
   </body>

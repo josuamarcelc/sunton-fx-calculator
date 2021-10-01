@@ -90,6 +90,9 @@
                   <li class="ampstart-dropdown-item">
                   <a href="https://sunton.josuamarcelc.com/cara-mulai-sunton" class="text-decoration-none">Cara Mulai Sunton</a>
                   </li>
+                  <li class="ampstart-dropdown-item">
+                    <a href="https://sunton.josuamarcelc.com/cara-dapat-komisi-sunton/" class="text-decoration-none">Cara Dapat Komisi Sunton FX</a>
+                  </li>
                 </ul>
               </section>
             </amp-accordion>
@@ -140,6 +143,14 @@
           <br/>
           <hr>
             <p style="color:#FF3333;font-weight:bold;"><a href="https://user.suntonfx.com/signup/E1428967-A01" class="text-decoration-none">Register SuntonFX NOW</a></p>
+          <hr>
+          <amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-7143337953873107" data-ad-slot="9343558541" data-auto-format="rspv" data-full-width="">
+            <div overflow=""></div>
+          </amp-ad>
+          <hr>
+          <div>
+          <amp-youtube width="480" height="270" layout="responsive" data-videoid="P54Yh9St1qA"></amp-youtube>
+          </div>
           <hr>
           <p><b>Market EXAMPLE: Ukoil.ecn</b></p>
           <amp-img src="img/sunton-dashboard.jpg" width="350" height="235" alt="Sunton Dashboard in MetaTrader 5" layout="responsive" class=""></amp-img>
