@@ -96,7 +96,7 @@
               </section>
             </amp-accordion>
           </li>
-          <li class="ampstart-nav-item ampstart-nav-dropdown relative">
+          <li class="ampstart-nav-item ampstart-nav-dropdown relative" style="display:none;">
             <amp-accordion layout="container" disable-session-states="" class="ampstart-dropdown">
               <section>
                 <header>Projects</header>
@@ -122,9 +122,14 @@
       <figure class="ampstart-image-fullpage-hero m0 relative mb4">
          <div style="background-color:#ffafaf">
           <p><b>Disclaimer!</b></p>
-          <p>Website ini hanya untuk info, tidak menjamin kemenangan 100%</p>
+          <p>SUNTON TIDAK DAPAT WITHDRAW!! PER 10 OCTOBER 2021! IT'S SCAM! FCK BANGSAT ANJING</p>
          </div>
           <hr>
+         <!--<div style="background-color:#ffafaf">
+          <p><b>Disclaimer!</b></p>
+          <p>Website ini hanya untuk info, tidak menjamin kemenangan 100%</p>
+         </div>
+          <hr>-->
           <amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-7143337953873107" data-ad-slot="9343558541" data-auto-format="rspv" data-full-width="">
             <div overflow=""></div>
           </amp-ad>
@@ -136,13 +141,13 @@
             <li>Jika B ajak EF, A akan mendapatkan 8% dari admin fee EF setiap transaksi</li>
             <li>Jika G ajak H, A akan mendapatkan 4% dari admin fee H setiap transaksi</li>
             <li>Komisi dapat diambil sebanyak referral 3 level ke bawah</li>
-            <li>Komisi dapat di cairkan di <a style="color:#ff1111;" target="_blank" href="https://user.suntonfx.com">https://user.suntonfx.com</a></li>
+            <li>Komisi dapat di cairkan di <a style="color:#ff1111;" target="_blank" href="https://clientportal.suntonfx.com/register/ib/personalInfo?link_id=ekf4d8d3&referrer_id=e1428967">https://clientportal.suntonfx.com/</a></li>
           </ul>
           <hr>
           <p><b>Cara Mendapatkan Link Referral Sunton:</b></p>
           <a target="_blank" href="https://sunton.josuamarcelc.com/img/cara-ambil-link-referral.png"><img src="https://sunton.josuamarcelc.com/img/cara-ambil-link-referral.png" width="100%" alt="Cara ambil link referral Sunton" layout="responsive"></img></a>
           <ul style="text-align:left;">
-            <li>Login ke <a style="color:#ff1111;" target="_blank" href="https://user.suntonfx.com">https://user.suntonfx.com</a></li>
+            <li>Login ke <a style="color:#ff1111;" target="_blank" href="https://clientportal.suntonfx.com">https://clientportal.suntonfx.com</a></li>
           </ul>
           <ol style="text-align:left;">
             <li>Pilih Menu Promosi</li>
@@ -156,7 +161,7 @@
       </figure>
     </div>
           <hr>
-    <footer class="ampstart-footer flex flex-column items-center px3">
+    <footer class="ampstart-footer flex flex-column items-center px3" style="display:none;">
       <small> © <a href="https://josuamarcelc.com">jmc</a>, 2013 - <?= date('Y'); ?></small>
     </footer>
     </div>

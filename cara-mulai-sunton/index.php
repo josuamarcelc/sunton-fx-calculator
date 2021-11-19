@@ -95,7 +95,7 @@
               </section>
             </amp-accordion>
           </li>
-          <li class="ampstart-nav-item ampstart-nav-dropdown relative">
+          <li class="ampstart-nav-item ampstart-nav-dropdown relative" style="display:none;">
             <amp-accordion layout="container" disable-session-states="" class="ampstart-dropdown">
               <section>
                 <header>Projects</header>
@@ -119,9 +119,14 @@
 
     <div class="center">
       <figure class="ampstart-image-fullpage-hero m0 relative mb4">
+         <div style="background-color:#ffafaf">
+          <p><b>Disclaimer!</b></p>
+          <p>SUNTON TIDAK DAPAT WITHDRAW!! PER 10 OCTOBER 2021! IT'S SCAM! FCK BANGSAT ANJING</p>
+         </div>
+          <hr>
         <div style="background-color:#f8f8f8;">
           <hr>
-            <p>1. Register SuntonFX <a style="color:#FF3333;font-weight:bold;" href="https://user.suntonfx.com/signup/E1428967-A01" class="text-decoration-none">(Klik Disini)</a></p>
+            <p>1. Register SuntonFX <a style="color:#FF3333;font-weight:bold;" href="https://clientportal.suntonfx.com/register/ib/personalInfo?link_id=ekf4d8d3&referrer_id=e1428967" class="text-decoration-none">(Klik Disini)</a></p>
           <hr>
             <p><a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5" class="text-decoration-none">2. Download MetaTrader 5 (MT5)</a></p>
             <amp-img src="../img/meta-trader-5.jpg" width="375" height="125" alt="Sunton Dashboard in MetaTrader 5" layout="responsive"></amp-img>
@@ -134,7 +139,7 @@
           <hr>
             <p>3. Cek Email, Login MT 5 Pakai Akun Perdagangan dan Password Perdagangan</p>
           <hr>
-            <p>4. Masuk Whatsapp Group untuk Daftar Ulang <a style="color:#FF3333;font-weight:bold;" href="https://chat.whatsapp.com/IBiatLEHkup5cGKfOpWYAG" class="text-decoration-none">(Klik Disini)</a></p>
+            <p>4. Masuk Whatsapp Group untuk Daftar Ulang</p>
           <hr>
             <p>5. Setelah Top-up pertama akan di invite ke group Sinyal</p>
           <hr>
@@ -156,7 +161,8 @@
           <hr>
           <p><b>Cara Top Up:</b></p>
           <ul style="text-align:left;">
-            <li>Chatting Whatsapp</li>
+            <li>Chatting Telegram</li>
+            <li><a style="color:#ff1111;" target="_blank" href="http://t.me/xdf0098">Salah satu CS Telegram</a></li>
             <li>Info Nomor Akun MetaTrader5 dan Jumlah Deposit <br>(contoh: ID 82173 top up Rp. 1,000,000)</li>
             <li><a style="color:#ff1111;" target="_blank" href="https://sunton.josuamarcelc.com/img/contoh-top-up.jpg">Contoh Chat</a></li>
             
@@ -170,9 +176,10 @@
           <hr>
           <p><b>Cara Penarikan Dana:</b></p>
           <ul style="text-align:left;">
-            <li>Masuk ke web sunton (<a style="color:#ff1111;" target="_blank" href="https://user.suntonfx.com">https://user.suntonfx.com</a>)</li>
+            <li>Masuk ke web sunton (<a style="color:#ff1111;" target="_blank" href="https://clientportal.suntonfx.com/register/ib/personalInfo?link_id=ekf4d8d3&referrer_id=e1428967">https://clientportal.suntonfx.com</a>)</li>
             <li>Pilih penarikan / withdrawal</li>
             <li>Pilih wire transfer/ transfer kawat</li>
+            <li><i>Biasanya penarikan 1x24jam, (Diusahakan menarik tidak di hari sabtu atau minggu, karena akan masuk di hari senin)</i></li>
           </ul>
           <hr>
          </div>
@@ -188,13 +195,13 @@
             <li>Jika B ajak EF, A akan mendapatkan 8% dari admin fee EF setiap transaksi</li>
             <li>Jika G ajak H, A akan mendapatkan 4% dari admin fee H setiap transaksi</li>
             <li>Komisi dapat diambil sebanyak referral 3 level ke bawah</li>
-            <li>Komisi dapat di cairkan di <a style="color:#ff1111;" target="_blank" href="https://user.suntonfx.com">https://user.suntonfx.com</a></li>
+            <li>Komisi dapat di cairkan di <a style="color:#ff1111;" target="_blank" href="https://clientportal.suntonfx.com/register/ib/personalInfo?link_id=ekf4d8d3&referrer_id=e1428967">https://clientportal.suntonfx.com</a></li>
           </ul>
           <hr>
           <p><b>Cara Mendapatkan Link Referral Sunton:</b></p>
           <a target="_blank" href="https://sunton.josuamarcelc.com/img/cara-ambil-link-referral.png"><img src="https://sunton.josuamarcelc.com/img/cara-ambil-link-referral.png" width="100%" alt="Cara ambil link referral Sunton" layout="responsive"></img></a>
           <ul style="text-align:left;">
-            <li>Login ke <a style="color:#ff1111;" target="_blank" href="https://user.suntonfx.com">https://user.suntonfx.com</a></li>
+            <li>Login ke <a style="color:#ff1111;" target="_blank" href="https://clientportal.suntonfx.com/register/ib/personalInfo?link_id=ekf4d8d3&referrer_id=e1428967">https://clientportal.suntonfx.com</a></li>
           </ul>
           <ol style="text-align:left;">
             <li>Pilih Menu Promosi</li>
@@ -204,7 +211,7 @@
       </figure>
     </div>
           <hr>
-    <footer class="ampstart-footer flex flex-column items-center px3">
+    <footer class="ampstart-footer flex flex-column items-center px3" style="display:none;">
       <small> © <a href="https://josuamarcelc.com">jmc</a>, 2013 - <?= date('Y'); ?></small>
     </footer>
     </div>

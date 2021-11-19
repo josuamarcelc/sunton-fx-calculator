@@ -113,7 +113,7 @@
               </section>
             </amp-accordion>
           </li>
-          <li class="ampstart-nav-item ampstart-nav-dropdown relative">
+          <li class="ampstart-nav-item ampstart-nav-dropdown relative" style="display:none;">
             <amp-accordion layout="container" disable-session-states="" class="ampstart-dropdown">
               <section>
                 <header>Projects</header>
@@ -137,6 +137,11 @@
     <div class="center">
       <figure class="ampstart-image-fullpage-hero m0 relative mb4">
         <div>
+         <div style="background-color:#ffafaf">
+          <p><b>Disclaimer!</b></p>
+          <p>SUNTON TIDAK DAPAT WITHDRAW!! PER 10 OCTOBER 2021! IT'S SCAM! FCK BANGSAT ANJING</p>
+         </div>
+          <hr>
           <div class="wrapper">
             <input onchange="inputAssetChange();" type="radio" name="select-stock" id="option-1" value="800">
             <input onchange="inputAssetChange();" type="radio" name="select-stock" id="option-2" value="1000" >
@@ -198,7 +203,7 @@
             <img src="img/information-icon-white.png" alt="Sunton Dashboard in MetaTrader 5" layout="responsive"></img>
           </button>
           <hr>
-            <p style="color:#FF3333;font-weight:bold;"><a href="https://user.suntonfx.com/signup/E1428967-A01" class="text-decoration-none">Register SuntonFX NOW</a></p>
+            <p style="color:#FF3333;font-weight:bold;"><a href="https://clientportal.suntonfx.com/register/ib/personalInfo?link_id=ekf4d8d3&referrer_id=e1428967" class="text-decoration-none">Register SuntonFX NOW</a></p>
           <hr>
           <amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-7143337953873107" data-ad-slot="9343558541" data-auto-format="rspv" data-full-width="">
             <div overflow=""></div>
@@ -219,7 +224,7 @@
           <div overflow=""></div>
         </amp-ad>
         <hr>
-          <p style="color:#FF0000;font-weight:bold;"><a href="https://user.suntonfx.com/signup/E1428967-A01" class="text-decoration-none">Register SuntonFX NOW</a></p>
+          <p style="color:#FF0000;font-weight:bold;"><a href="https://clientportal.suntonfx.com/register/ib/personalInfo?link_id=ekf4d8d3&referrer_id=e1428967" class="text-decoration-none">Register SuntonFX NOW</a></p>
         <hr>
     <script>
       window.Promise ||
@@ -283,7 +288,7 @@
           <hr>
       </figure>
     </div>
-    <footer class="ampstart-footer flex flex-column items-center px3">
+    <footer class="ampstart-footer flex flex-column items-center px3" style="display:none;">
       <small> © <a href="https://josuamarcelc.com">josuamarcelc.com</a>, 2013 - <?= date('Y'); ?></small>
     </footer>
     </div>
